@@ -7,7 +7,7 @@ Após a clonagem da pasta rodar o comando abaixo, tanto na pasta 'backend' e na 
 
 Criar um arquivo .env para a conexão com o banco de dados, com uma variável chamada DATABASE_URL.
 Exemplo: 
-```DATABASE_URL = mysql://root:@localhost:3306/emcomp2026```
+```DATABASE_URL = mysql://root:@localhost:3306/encomp2026```
 
 Na pasta 'backend' rodar o comando para vincular o prisma ao banco de dados:
 ```npm prisma generate```
